@@ -1,1 +1,1 @@
-# Client_server_arch theory
+# Client server architecture theory
