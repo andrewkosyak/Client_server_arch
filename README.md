@@ -1,1 +1,1 @@
-# Client_server_arch
+# Client_server_arch theory
